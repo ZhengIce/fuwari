@@ -11,6 +11,32 @@ const currentYear = new Date().getFullYear();
 <!--<div class="transition bg-[oklch(92%_0.01_var(&#45;&#45;hue))] dark:bg-black rounded-2xl py-8 mt-4 mb-8 flex flex-col items-center justify-center px-6">-->
 <div class="transition border-dashed border-[oklch(85%_0.01_var(--hue))] dark:border-white/15 rounded-2xl mb-12 flex flex-col items-center justify-center px-6">
     <div class="transition text-50 text-sm text-center">
+        <div class="flex items-center justify-center gap-2 flex-wrap">
+                <div class="flex items-center justify-center">
+                    <img src="/images/ICP.svg" class="size-[1em]"  alt=""/>
+                    <span class="text-xs ms-1">
+                        <a
+                            class="no-underline hover:text-blue-400 font-medium"
+                            href="https://beian.miit.gov.cn/"
+                            target="_blank"
+                        >
+                            蜀ICP备2025141374号-1
+                        </a>
+                    </span>
+                </div>
+                <!-- <div class="flex items-center justify-center">
+                    <img src="/images/Police.png" class="size-[1em]"  alt=""/>
+                    <span class="text-xs  ms-1">
+                        <a
+                                class="no-underline hover:text-blue-400 font-medium"
+                                href="https://beian.mps.gov.cn/#/query/webSearch"
+                                target="_blank"
+                        >
+                            苏公网安备123456789
+                        </a>
+                    </span>
+                </div> -->
+            </div>
         &copy; <span id="copyright-year">{currentYear}</span> {profileConfig.name}. All Rights Reserved. /
         <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('rss.xml')}>RSS</a> /
         <a class="transition link text-[var(--primary)] font-medium" target="_blank" href={url('sitemap-index.xml')}>Sitemap</a><br>
