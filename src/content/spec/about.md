@@ -1,9 +1,17 @@
-# 关于
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好，我是来自四川南充的一名初级前端程序员小白。2023年毕业于苏州科技大学，目前专注于前端技术和移动应用领域。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 我的兴趣
+
+- **热爱编程**：专注于Web开发和技术创新，不断探索新的技术栈和开发模式
+- **热爱摄影**：喜欢用镜头捕捉生活中的美好瞬间，记录城市与自然的独特视角
+- **终身学习**：正在努力学习数字世界的一切，包括人工智能、数据可视化和交互设计
+
+## 技术栈
+
+主要使用Vue.js、React构建现代化的Web应用，同时熟悉React Native移动应用开发和Electron桌面应用开发，对前端工程化和用户体验有深入的研究和实践。
+
+<!-- ## 联系方式
+
+欢迎通过我的社交媒体与我交流，分享技术心得和创意想法！ -->

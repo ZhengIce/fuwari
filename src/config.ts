@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "IceZheng",
-	bio: "一个努力创造世界的程序员.",
+	bio: "来自四川南充，毕业于苏州科技大学，热爱编程与摄影。",
 	links: [
 		// {
 		// 	name: "Twitter",
